@@ -1,25 +1,4 @@
-##CODSOFT_TASKSNO2
+CODSOFT_TASKSNO2
 A collection of Python projects developed as part of the CodSoft Internship.
 
-##My Calculator
-Project Description
-My Calculator is a simple desktop application made using Python. This project performs basic mathematical operations like addition, subtraction, multiplication, and division.
 
-I created this project to understand how GUI applications work in Python using the Tkinter library. The calculator has a simple interface where users can enter numbers and get results easily.
-
-##Features
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Clear button to remove input
-Simple and user-friendly interface
-GUI based application
-##Technology Used
-Python
-Tkinter Library
-##How to Run the Project
-Install Python on your system.
-Download or clone this project.
-Open the project folder.
-Run the following command:
